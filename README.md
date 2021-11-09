@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I am Diana Carolina 👋👩‍💻👩‍🔬
+
+### I am software programming in backend
+
+I am from Copacabana, Antioquia, Colombia 🟨🟦🟥
+
+- 👩‍💻 I am passionate about programming  
+- 🚵‍♀️🚴‍ I like riding bike for Medellin and Copacabana
 
 <!--
 **DianaCarolina3/DianaCarolina3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning firebase and scaling projects
+- 📫 How to reach me: 
+  - email: dcaroli2015@gmail.com
