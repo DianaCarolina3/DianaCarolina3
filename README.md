@@ -6,10 +6,10 @@ I am from Copacabana, Antioquia, Colombia 🟨🟦🟥
 
 - 👩‍💻 I am passionate about programming  
 - 🚵‍♀️🚴‍ I like riding bike for Medellin and Copacabana
-- 🌱 I’m currently learning firebase and scaling projects
+- 🌱 I’m currently learning Google Cloud Platform - AWS and scaling projects
 
 ## 📬 Get in Touch
-- LinkedIn: https://www.linkedin.com/in/diana-carolina-campuzano-garzon-830ba3127
+- LinkedIn: https://www.linkedin.com/in/dianacarolina3/
 - GitLab: https://gitlab.com/DianaCarolina3
 - E-mail: dcaroli2015@gmail.com
 
