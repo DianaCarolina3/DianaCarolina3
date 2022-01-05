@@ -4,8 +4,9 @@
 
 I am from Copacabana, Antioquia, Colombia 🟨🟦🟥
 
-- 👩‍💻 I am passionate about programming  
-- 🚵‍♀️🚴‍ I like riding bike for Medellin and Copacabana
+- 👩‍💻 I am passionate about programming
+- 👩‍🔬🥼 I like science and math
+- 🚵‍♀️🚴‍ I like riding bike for Medellin and Copacabana, Antioquia
 - 🌱 I’m currently learning Google Cloud Platform - AWS and scaling projects
 
 ## 📬 Get in Touch
