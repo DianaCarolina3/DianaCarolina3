@@ -4,7 +4,7 @@ Hola, soy Diana Carolina 👋
 
 Vivo en Bogotá, Colombia 🟨🟦🟥
 
-Habilidades
+Con Habilidades en:
 - HTML
 - CSS
 - JavaScript
