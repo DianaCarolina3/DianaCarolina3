@@ -4,17 +4,17 @@ Hola, soy Diana Carolina 👋
 
 Vivo en Bogotá, Colombia 🟨🟦🟥
 
-Con Habilidades en:
+Poseo Habilidades en:
+- Git
 - HTML
 - CSS
 - JavaScript
-- Node
+- Node JS
 - Express JS
 - SQL y NoSQL
 - WebSockets
-- Git
 - TypeScript
-- Redis
+- Cache con Redis
 - JsonWebTokens (JWT)
 
 ## 📬 Contáctame
