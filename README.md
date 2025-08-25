@@ -16,6 +16,7 @@ Poseo Habilidades en:
 - Node JS
 - Express JS
 - SQL y NoSQL
+- arquitectura de software
 - WebSockets
 - TypeScript
 - Cache con Redis
