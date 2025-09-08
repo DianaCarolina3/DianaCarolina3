@@ -2,7 +2,7 @@ Hola, soy Diana Carolina 👋
 
 ### Desarrolladora Backend
 
-Vivo en Bogotá, Colombia 🟨🟦🟥
+Vivo en Colombia 🟨🟦🟥
 
 Disfruto usar mis conocimientos para construir sistemas de información y contribuir al crecimiento del sector. 
 He realizado proyectos personales donde he construido diversos aplicativos los cuales me han permitido expandir y poner en practica mis conocimientos en arquitectura de software, APIs y servicios, bases de datos SQL y no SQL, Frameworks y crear soluciones eficientes y escalables.
